@@ -32,7 +32,7 @@
 - 2 years experience in Mobile/Full-stack development.
 - #### Technical Skills
 
-  - Good expertise in React, Next.JS, Redux. Highly knowledgeable on scalable and usable UI components and Front-end architecture. Solid understanding of React/Next.JS rendering theory and work in a new generation app developed cross-platfrom React Native
+  - Good expertise in React-Native, React, Next.JS, Redux. Have highly specialized knowledge of extensible UI components and programmatic application development. Solid understanding of React/Next.JS rendering theory and work in a new generation app developed cross-platfrom React Native
   - Skilled in Apex Classes, Test Classes, SOQL, SOSL, Visual Force, Lightning pages (Pages, Component & Controllers), ETL, S-Controls, Triggers, Custom Objects, Web services, Validation Rules, Work Flows, Dashboards, Reports, Sandbox development and Testing.
   - Skilled in React-Native, React, Node.js, Express, ES6.
 
@@ -45,8 +45,8 @@
 ### **Mobile/Full-stack Developer | Metta Depth LLC**, `DEC 2020 - Present`
 
 - [x] Builded +2 corporate websites using `Wordpress CMS`, `Next.js`
-- [x] Created an e-commerce website and an associate cross-platform app using `Wordpress CMS`, `React Native`
-- [x] Responsible on production app performance. Resolved website performance issues
+- [x] Builded e-commerce website and an associate cross-platform app using `Wordpress CMS`, `React Native`
+- [x] Responsible on production app performance. Resolved website and app performance issues
 - [x] Manage web server with `NGINX`
 
 #### Responsibitilies
