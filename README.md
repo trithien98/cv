@@ -12,9 +12,9 @@
   - React.js, React-Native, Redux, Next.JS
   - LWC, Vlocity
   - Bootstrap, Tailwind, SASS, LESS, Responsive
-  - Grunt, Gulp, NPM, Webpack
-  - SVG, Canvas, Web Game
   - Mobile Web, Hybrid App
+  - Grunt, Gulp, NPM, Webpack
+  
 - #### Back End
   - Node.js, Express, MongoDB, MySQL, Firebase Realtime Database
   - Typescript, PHP, RESTful, GraphQL, Web service
