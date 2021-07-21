@@ -10,11 +10,10 @@
 - #### Front End
   - JavaScript, ES6, HTML5, CSS3
   - React.js, React-Native, Redux, Next.JS
-  - LWC, Vlocity
+  - Saleforce, LWC, Vlocity
   - Bootstrap, Tailwind, SASS, LESS, Responsive
   - Mobile Web, Hybrid App
   - Grunt, Gulp, NPM, Webpack
-  
 - #### Back End
   - Node.js, Express, MongoDB, MySQL, Firebase Realtime Database
   - Typescript, PHP, RESTful, GraphQL, Web service
@@ -53,6 +52,15 @@
 
 - [x] Transform static design mockups in fully functional web interfaces
 - [x] Maintenance, enhancement projects
+
+#### Key Projects
+
+- #### **Jeclic local**
+  - [x] Building and designing ecomerce websites on the basis of is Jeclic-local `Wordpress CMS`, `Jquery`
+  - [x] Created a cross-platform app to manage sales for cities using `React-Native` deployed on CH play on Appstore like Bethune Shop, Grand Anecy Shop
+- #### **Shotyz.io**
+  - [x] Built a market management website to manage the buying and selling of goods for influencer `Wordpress CMS`
+  - [x] Build a single application for management website shop for each influencer `Next.JS`, `GraphQL` , `Wordpress CMS`
 
 ## Education
 
