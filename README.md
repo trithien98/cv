@@ -57,7 +57,7 @@
 
 - #### **[Jeclic-local](https://jeclic-local.fr)**
   - [x] Building and designing ecomerce websites on the basis of is Jeclic-local `Wordpress CMS`, `Jquery`
-  - [x] Created a cross-platform app to manage sales for cities using `React-Native` deployed on CH play and Appstore like Béthune Shop [Béthune Shop](https://play.google.com/store/apps/details?id=espm.bethune.shop&hl=vi&gl=US), [Grand Annecy Shop](https://play.google.com/store/apps/details?id=greenweb.grandannecy.shop&hl=en_US&gl=US)
+  - [x] Created a cross-platform app to manage sales for cities using `React-Native` deployed on CH play and Appstore like [Béthune Shop](https://play.google.com/store/apps/details?id=espm.bethune.shop&hl=vi&gl=US), [Grand Annecy Shop](https://play.google.com/store/apps/details?id=greenweb.grandannecy.shop&hl=en_US&gl=US)
 - #### **[Shotyz.io](https://shotyz.io)**
   - [x] Built a market management website to manage the buying and selling of goods for influencer `Wordpress CMS`
   - [x] Build a single application for management website shop for each influencer `Next.JS`, `GraphQL` , `Wordpress CMS`
