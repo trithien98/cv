@@ -55,10 +55,10 @@
 
 #### Key Projects
 
-- #### **Jeclic local**
+- #### **[Jeclic-local](https://jeclic-local.fr)**
   - [x] Building and designing ecomerce websites on the basis of is Jeclic-local `Wordpress CMS`, `Jquery`
-  - [x] Created a cross-platform app to manage sales for cities using `React-Native` deployed on CH play on Appstore like Bethune Shop, Grand Anecy Shop
-- #### **Shotyz.io**
+  - [x] Created a cross-platform app to manage sales for cities using `React-Native` deployed on CH play and Appstore like Béthune Shop, Grand Anecy Shop
+- #### **[Shotyz.io](https://shotyz.io)**
   - [x] Built a market management website to manage the buying and selling of goods for influencer `Wordpress CMS`
   - [x] Build a single application for management website shop for each influencer `Next.JS`, `GraphQL` , `Wordpress CMS`
 
