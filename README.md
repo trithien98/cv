@@ -6,7 +6,7 @@
 - Phone: [+84335820466](tel:+84335820466)
 - Linkedin : [trithien98](https://www.linkedin.com/in/trithien98)
 ## Summary
--I am
+-I am a quality oriented software engineer who focus to do right things and do things right, i can collobrate very well with teammates and can work independence is strong point
 ## Experience
 ### **Software Engineer | Metta Depth LLC**, `DEC 2020 - Present`
 - [x] Praticipate in a e-commerce project with a team in France.
@@ -26,14 +26,13 @@
 - [x] Transform static design mockups in fully functional web interfaces
 - [x] Do peer review to  help teammates improve code quality and check the correction of dependencies and the system
 - [x] Maintenance, enhancement projects
-
 ## Expertise
 - #### Soft Skills
   - Skilled in communication, presentation, active listening and constructive feedback.
   - High adapt and capable of rapidly learning new technologies and processes, and successfully applying them to projects and operations.
 - #### Front End
+  - React.js, React-Native, Redux, Next.JS
   - Typescript,JavaScript, ES6, HTML5, CSS3
-  - React.js, React-Native, Redux, Next.JS,
   - Bootstrap, Tailwind, SASS, LESS, Responsive
   - Mobile Web, Hybrid App
   - Grunt, Gulp, NPM, Webpack
@@ -50,6 +49,6 @@
   - Heroku, Digital Ocean
 ## Education
 ### Hue University of Sciences, Vietnam `2016-2021`
-[x] Engineering degree in Electronics and Telecommunications
-    - Team-worked in a lot of project in 5 years with skill such as presentation, hardware design, requiment analyze, implement, reporting.
-    - Praticed in GraduaVoIP project at Metta Depth LLC for VoIP calling and chating as a Software engineer 
+[x] Engineering degree in Electronics and Telecommunications.
+- Team-worked in a lot of project in 5 years with skill such as presentation, telecom network design, requiment analyze, implement, reporting.
+- Praticed in GraduaVoIP project at Metta Depth LLC for VoIP calling and chating as a Software engineer.
