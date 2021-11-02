@@ -5,6 +5,7 @@
 - Email: [trantrithien98@gmail.com](mailto:trantrithien98@gmail.com)
 - Phone: [+84335820466](tel:+84335820466)
 - Linkedin : [trithien98](https://www.linkedin.com/in/trithien98)
+- Github : [trithien98](https://github.com/trithien98)
 
 ## Summary
 
