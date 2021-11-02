@@ -12,7 +12,7 @@
 
 ## Experience
 
-### **Software Engineer | Metta Depth LLC**, `DEC 2020 - Present`
+### **Software Engineer | Metta Depth LLC**, `DEC 2019 - Present`
 
 - [x] Participate in an e-commerce project with a team in France.
 - [x] Invoke in a Jira team with requirements and development process.
